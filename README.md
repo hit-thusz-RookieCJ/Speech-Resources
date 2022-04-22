@@ -298,6 +298,7 @@ Faculty of Information Technology
 
 - MSRA-NLC组
 - 腾讯AILAB语音技术中心
+- [腾讯天籁实验室](https://tea-lab.qq.com/)
 - 字节跳动SAMI组
 - 科大讯飞
 - 搜狗
